@@ -10,7 +10,7 @@ public class ArrayListHelper<T> {
 		boolean found = false;
 
 		ol = new ArrayList<T>();
-
+//checking the variables
 		for (int i = 0; i < il.size(); i++) {
 			found = false;
 			for (int j = 0; j < ol.size(); j++) {
